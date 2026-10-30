@@ -1,0 +1,6 @@
+{
+  "name": "Bản Đồ Lễ Hội - Minimal Festival Map",
+  "description": "Bản đồ khám phá lễ hội truyền thống, văn hóa và nghệ thuật vùng miền Việt Nam với giao diện tối giản, trực quan và tinh tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
